@@ -1,6 +1,6 @@
 
 
-/* När användaren klickar på knappen, körs denna funktion */
+ /* När användaren klickar på knappen, körs denna funktion */
 document.getElementById(`fetchButton`).addEventListener(`click`, function() {
     
     /* Anropa API för att hämta data */
